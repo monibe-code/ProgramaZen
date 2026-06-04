@@ -1,0 +1,236 @@
+{
+  "info": {
+    "nombre": "ProgramaZen", 
+    "contenido": "Frases de programación aplicadas al bienestar diario"
+  }, 
+  "frases": [
+    {
+      "id": 1, 
+      "frase": "Elegir parece libre albedrío, pero en el fondo solo seguimos el camino que ya estaba escrito en el código."
+    },
+    {
+      "id": 2, 
+      "frase": "A veces repetimos los mismos errores, como un bucle sin condición de salida"
+    },
+    {
+      "id": 3, 
+      "frase": "Cada persona tiene sus propias funciones: tareas que sabe hacer, y que otros pueden invocar en momentos clave."
+    },
+    {
+      "id": 4, 
+      "frase": "En la vida, igual que en el código, los detalles que se explican bien evitan confusiones más adelante."
+    },
+    {
+      "id": 5, 
+      "frase": "Cometer errores no es el problema… el problema es no tener un backup antes de cambiarlo todo"
+    },
+    {
+      "id": 6, 
+      "frase": "Tomar decisiones complejas es como navegar entre if, else if, y else: cada camino depende de muchos factores."
+    },
+    {
+      "id": 7, 
+      "frase": "Cuando no entiendes por qué te sientes mal, necesitas hacer debugging emocional: revisar línea por línea tus pensamientos."
+    },
+    {
+      "id": 8, 
+      "frase": "A veces tenemos todo listo… pero necesitamos un momentito para compilar lo aprendido antes de avanzar."
+    },
+    {
+      "id": 9, 
+      "frase": "Cada día seguimos pequeños algoritmos: para despertarnos, para socializar, para cuidarnos. Son rutinas optimizadas que nos permiten vivir."
+    },
+    {
+      "id": 10, 
+      "frase": "A veces necesitas un reset para volver a empezar sin errores acumulados."
+    },
+    {
+      "id": 11, 
+      "frase": "Guardar antes de cerrar… como cuando atesoras una conversación importante antes de despedirte."
+    },
+    {
+      "id": 12, 
+      "frase": "Un commit emocional es cuando decides que estás lista para asumir lo que sientes."
+    },
+    {
+      "id": 13, 
+      "frase": "Los inputs que das al mundo afectan directamente a los outputs que recibes."
+    },
+    {
+      "id": 14, 
+      "frase": "Hay personas que son como arrays: no son solo una cosa, sino una colección de momentos."
+    },
+    {
+      "id": 15, 
+      "frase": "Un null emocional es cuando sabes que falta algo, pero no sabes exactamente qué."
+    },
+    {
+      "id": 16, 
+      "frase": "El código más bonito es el que entiendes después de mucho tiempo... como las decisiones que tomaste con el corazón."
+    },
+    {
+      "id": 17, 
+      "frase": "Un booleano es como una corazonada: sí o no, sin matices… pero con mucho peso."
+    },
+    {
+      "id": 18, 
+      "frase": "Tus límites son como una clase private: no todo el mundo tiene permiso para acceder a ellos."
+    },
+    {
+      "id": 19, 
+      "frase": "La recursividad se parece al pensamiento rumiativo: vuelves una y otra vez al mismo punto."
+    },
+    {
+      "id": 20, 
+      "frase": "Un breakpoint emocional es ese momento donde decides detenerte y observar qué está pasando dentro."
+    },
+    {
+      "id": 21, 
+      "frase": "En la vida, como en el código, a veces necesitas hacer una pausa y preguntar: ¿esto funciona como esperaba?"
+    },
+    {
+      "id": 22, 
+      "frase": "A veces, repetimos las mismas acciones esperando un resultado distinto… como un bucle FOR sin una condición que nos saque de ahí."
+    },
+    {
+      "id": 23, 
+      "frase": "En la vida, como en el código, los errores no son fallos… son excepciones que necesitamos aprender a manejar."
+    },
+    {
+      "id": 24, 
+      "frase": "No somos los mismos cada día. Cambiamos, como una variable que se redefine según el contexto."
+    },
+    {
+      "id": 25, 
+      "frase": "Ordenar nuestros pensamientos es como refactorizar código: cuesta al principio, pero todo fluye mejor después."
+    },
+    {
+      "id": 26, 
+      "frase": "Tu cuerpo lleva un historial de todo: cada emoción, cada noche mal dormida, cada momento de cuidado."
+    },
+    {
+      "id": 27, 
+      "frase": "Hay días en que necesitamos encapsular emociones: guardarlas, llamarlas solo cuando hagan falta, como una función bien escrita."
+    },
+    {
+      "id": 28, 
+      "frase": "Mirarnos por dentro y entender qué no está funcionando… es como hacer debug en el alma."
+    },
+    {
+      "id": 29, 
+      "frase": "A veces hay que detenerse y volver a lo essencial. Como un \"return\" que te saca de la función justo a tiempo."
+    },
+    {
+      "id": 30, 
+      "frase": "Hablar con nosotros mismas, dejar notas mentales, es como comentar el código para entendernos mejor más adelante."
+    },
+    {
+      "id": 31, 
+      "frase": "Repetimos patrones familiares sin darnos cuenta… hasta que, como en una función recursiva, decidimos cortar la llamada."
+    },
+    {
+      "id": 32, 
+      "frase": "Mantener el equilibrio es saber cuándo decir sí, cuándo decir no… y cuándo necesitas replantear la condición."
+    },
+    {
+      "id": 33, 
+      "frase": "El equilibrio no es evitar errores, sino aprender a manejarlos sin que todo se detenga"
+    },
+    {
+      "id": 34, 
+      "frase": "2B || !2B"
+    },
+    {
+      "id": 35, 
+      "frase": "Cuando mente, cuerpo y respiración se sincronizan, el sistema alcanza su mayor eficiencia."
+    },
+    {
+      "id": 36, 
+      "frase": "Un buen masaje es como un reset del sistema nervioso: borra tensiones y recarga energía."
+    },
+    {
+      "id": 37, 
+      "frase": "Un cuerpo en equilibrio es como un código bien escrito: todo fluye sin bloqueos."
+    },
+    {
+      "id": 38, 
+      "frase": "El tacto del terapeuta es como un debug manual: busca puntos de fallo y los repara con cuidado."
+    },
+    {
+      "id": 39, 
+      "frase": "Cuidar el cuerpo es anticipar errores: con descanso, movement y consciencia… por si hay que hacer catch antes del colapso."
+    },
+    {
+      "id": 40, 
+      "frase": "El estrés acumulado es como un bucle infinito: si no haces break, el sistema se agota."
+    },
+    {
+      "id": 41, 
+      "frase": "Hay hábitos que deberían ser const: dormir bien, respirar profundo y escucharse."
+    },
+    {
+      "id": 42, 
+      "frase": "Lo que das al cuerpo (input) se refleja en cómo te sientes (output). Alimentación, descanso, emociones… todo suma."
+    },
+    {
+      "id": 43, 
+      "frase": "El cuerpo también lanza avisos cuando lo saturas: no esperes al “crash” para cuidarlo."
+    },
+    {
+      "id": 44, 
+      "frase": "Una buena postura es como una arquitectura bien diseñada: todo se sostiene sin esfuerzo innecesario."
+    },
+    {
+      "id": 45, 
+      "frase": "El cuerpo también deja comentarios: contracturas, molestias, susurros… señales que conviene leer."
+    },
+    {
+      "id": 46, 
+      "frase": "Cambiar hábitos y rutinas es un refactor vital: no cambia tu esencia, pero mejora tu bienestar."
+    },
+    {
+      "id": 47, 
+      "frase": "Un masaje no es un parche temporal: es una actualización profunda que mejora el rendimiento."
+    },
+    {
+      "id": 48, 
+      "frase": "El descanso no es una pérdida de tiempo… es el timeout que evita que el sistema colapse."
+    },
+    {
+      "id": 49, 
+      "frase": "El cuidado corporal funciona como la recursividad: pequeños gestos que se repiten y crean equilibrio."
+    },
+    {
+      "id": 50, 
+      "frase": "Hay molestias que no duelen… hasta que se hacen grandes. Escuchar el cuerpo es prevenir bugs profundos."
+    },
+    {
+      "id": 51, 
+      "frase": "Dormir bien es como limpiar la caché: elimina lo innecesario y deja espacio para lo nuevo."
+    },
+    {
+      "id": 52, 
+      "frase": "No esperes a que algo falle para hacer mantenimiento. El autocuidado también es proactivo."
+    },
+    {
+      "id": 53, 
+      "frase": "Un entorno tranquilo y una caricia consciente son inputs que reprograman el estrés."
+    },
+    {
+      "id": 54, 
+      "frase": "El STATE de equilibrio emocional y físico no es permanente, pero podemos volver a él cuando lo perdemos."
+    },
+    {
+      "id": 55, 
+      "frase": "Separar lo urgente de lo importante es modular el día a día para no agotarte."
+    },
+    {
+      "id": 56, 
+      "frase": "A veces sentimos un null interior: no hay energía, ni dirección… y eso también necesita espacio y masaje."
+    },
+    {
+      "id": 57, 
+      "frase": "Tu cuerpo tiene su propio “lifecycle”: escucha cada fase, respétala y dale lo que necesita."
+    }
+  ]
+}
